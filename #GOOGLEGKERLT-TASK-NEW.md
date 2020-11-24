@@ -1,5 +1,4 @@
-# #GOOGLE/GKE/RLT-TASK-NEW
-#GOOGLE/GKE
+README.md
 
 # This repo creates Kubernetes cluster using terraform module
 Clone the repository from GitHub 
