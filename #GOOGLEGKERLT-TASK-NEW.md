@@ -18,7 +18,7 @@ Steps
 3. `terraform apply -var-file cluster.tfvars`
 
 
-Your `cluster.tfvars` should lok like below
+Your `cluster.tfvars` should look like below;
 
 ```
 google_domain_name                  = "seckinemrah.com"
