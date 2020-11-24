@@ -2,6 +2,10 @@
 Clone the repository from GitHub 
 [GitHub - seckinemrah/rlt-task](https://github.com/seckinemrah/rlt-task)
 
+GCR Link: https://console.cloud.google.com/gcr/images/assigment-296308?project=assigment-296308&authuser=1&cloudshell=true 
+***PROD Environment Link: http://prod.rlt.seckinemrah.com/***
+***STAGE Environemnt Link: http://stage.rlt.seckinemrah.com./***
+
 ### Prerequisites
 
 * Helm Version                             = ”v3.2.1”
